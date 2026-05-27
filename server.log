@@ -1,0 +1,376 @@
+
+> london-management@0.1.0 dev
+> next dev
+
+  Ôû▓ Next.js 14.2.3
+  - Local:        http://localhost:3000
+
+ Ô£ô Starting...
+ Ô£ô Ready in 1968ms
+ Ôùï Compiling / ...
+ Ô£ô Compiled / in 5s (1262 modules)
+node.exe : Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for 
+composite components) but got: object. You likely forgot to export your component from the file it's defined in, or you
+ might have mixed up default and named imports.
+At line:1 char:1
++ & "C:\Program Files\nodejs/node.exe" "C:\Program Files\nodejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Warning: React.... named imports.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite c
+omponents) but got: object. You likely forgot to export your component from the file it's defined in, or you might have
+ mixed up default and named imports.
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ GET / 500 in 3419ms
+ Ô£ô Compiled in 427ms (632 modules)
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite c
+omponents) but got: object. You likely forgot to export your component from the file it's defined in, or you might have
+ mixed up default and named imports.
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ GET / 500 in 34ms
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite c
+omponents) but got: object. You likely forgot to export your component from the file it's defined in, or you might have
+ mixed up default and named imports.
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ GET / 500 in 28ms
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite c
+omponents) but got: object. You likely forgot to export your component from the file it's defined in, or you might have
+ mixed up default and named imports.
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ GET / 500 in 24ms
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite c
+omponents) but got: object. You likely forgot to export your component from the file it's defined in, or you might have
+ mixed up default and named imports.
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ GET / 500 in 109ms
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite c
+omponents) but got: object. You likely forgot to export your component from the file it's defined in, or you might have
+ mixed up default and named imports.
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ GET / 500 in 94ms
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite c
+omponents) but got: object. You likely forgot to export your component from the file it's defined in, or you might have
+ mixed up default and named imports.
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ GET / 500 in 112ms
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite c
+omponents) but got: object. You likely forgot to export your component from the file it's defined in, or you might have
+ mixed up default and named imports.
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ GET / 500 in 127ms
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite c
+omponents) but got: object. You likely forgot to export your component from the file it's defined in, or you might have
+ mixed up default and named imports.
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ GET / 500 in 112ms
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite c
+omponents) but got: object. You likely forgot to export your component from the file it's defined in, or you might have
+ mixed up default and named imports.
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ GET / 500 in 96ms
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite c
+omponents) but got: object. You likely forgot to export your component from the file it's defined in, or you might have
+ mixed up default and named imports.
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ GET / 500 in 84ms
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite c
+omponents) but got: object. You likely forgot to export your component from the file it's defined in, or you might have
+ mixed up default and named imports.
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ GET / 500 in 95ms
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite c
+omponents) but got: object. You likely forgot to export your component from the file it's defined in, or you might have
+ mixed up default and named imports.
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ GET / 500 in 80ms
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite c
+omponents) but got: object. You likely forgot to export your component from the file it's defined in, or you might have
+ mixed up default and named imports.
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ GET / 500 in 109ms
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite c
+omponents) but got: object. You likely forgot to export your component from the file it's defined in, or you might have
+ mixed up default and named imports.
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ GET / 500 in 80ms
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite c
+omponents) but got: object. You likely forgot to export your component from the file it's defined in, or you might have
+ mixed up default and named imports.
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ GET / 500 in 77ms
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite c
+omponents) but got: object. You likely forgot to export your component from the file it's defined in, or you might have
+ mixed up default and named imports.
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ GET / 500 in 79ms
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite c
+omponents) but got: object. You likely forgot to export your component from the file it's defined in, or you might have
+ mixed up default and named imports.
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ GET / 500 in 62ms
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite c
+omponents) but got: object. You likely forgot to export your component from the file it's defined in, or you might have
+ mixed up default and named imports.
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ GET / 500 in 94ms
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite c
+omponents) but got: object. You likely forgot to export your component from the file it's defined in, or you might have
+ mixed up default and named imports.
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ GET / 500 in 92ms
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite c
+omponents) but got: object. You likely forgot to export your component from the file it's defined in, or you might have
+ mixed up default and named imports.
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ GET / 500 in 133ms
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite c
+omponents) but got: object. You likely forgot to export your component from the file it's defined in, or you might have
+ mixed up default and named imports.
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ GET / 500 in 67ms
+ ÔÜá Fast Refresh had to perform a full reload due to a runtime error.
+ ÔÜá Fast Refresh had to perform a full reload due to a runtime error.
+ Ô£ô Compiled in 905ms (1169 modules)
+ GET / 200 in 472ms
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite c
+omponents) but got: object. You likely forgot to export your component from the file it's defined in, or you might have
+ mixed up default and named imports.
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite c
+omponents) but got: object. You likely forgot to export your component from the file it's defined in, or you might have
+ mixed up default and named imports.
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ GET / 500 in 288ms
+ ÔÜá Fast Refresh had to perform a full reload due to a runtime error.
+ Ô£ô Compiled /_not-found in 342ms (1172 modules)
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite c
+omponents) but got: object. You likely forgot to export your component from the file it's defined in, or you might have
+ mixed up default and named imports.
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite c
+omponents) but got: object. You likely forgot to export your component from the file it's defined in, or you might have
+ mixed up default and named imports.
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ GET / 404 in 716ms
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ GET / 500 in 550ms
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite c
+omponents) but got: object. You likely forgot to export your component from the file it's defined in, or you might have
+ mixed up default and named imports.
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ GET /_next/static/chunks/main-app.js 404 in 33ms
+Warning: React.jsx: type is invalid -- expected a string (for built-in components) or a class/function (for composite c
+omponents) but got: object. You likely forgot to export your component from the file it's defined in, or you might have
+ mixed up default and named imports.
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ Ô¿» Error: Unsupported Server Component type: {...}
+    at stringify (<anonymous>)
+    at stringify (<anonymous>)
+digest: "1488678036"
+ GET /_next/static/chunks/app-pages-internals.js 404 in 62ms
+ Ô£ô Compiled in 435ms (1187 modules)
+ Ôùï Compiling /_error ...
+ Ô£ô Compiled /_error in 1904ms (1397 modules)
+ GET / 404 in 2078ms
+ Ô£ô Compiled in 786ms (1458 modules)
+^C
